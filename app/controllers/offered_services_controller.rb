@@ -1,0 +1,2 @@
+class OfferedServicesController < ApplicationController
+end
